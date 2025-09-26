@@ -59,16 +59,16 @@ export default function App() {
             ¡Tomemos café juntos!
           </h1>
           <p className="text-lg mb-8 text-gray-700">
-            Las mejores charlas nacen con una buena taza de café ☕.  
+            Las mejores charlas nacen con una buena taza de café.  
             Acompáñame a compartir un momento tranquilo, con buena compañía y aroma a café recién hecho.
           </p>
 
           <div className="bg-amber-50 rounded-2xl p-6 shadow-lg backdrop-blur-sm border border-amber-200">
             <p className="text-xl font-semibold mb-2 text-amber-800">📍 Lugar:</p>
-            <p className="mb-4 text-gray-700">Café Aroma – Zona 1, Ciudad de Guatemala</p>
+            <p className="mb-4 text-gray-700">Café el injerto</p>
 
             <p className="text-xl font-semibold mb-2 text-amber-800">🕓 Fecha y hora:</p>
-            <p className="mb-6 text-gray-700">Sábado 28 de septiembre, 4:00 PM</p>
+            <p className="mb-6 text-gray-700">Sábado 21 de septiembre, 4:00 PM</p>
 
             <button 
               onClick={handleConfirm}
